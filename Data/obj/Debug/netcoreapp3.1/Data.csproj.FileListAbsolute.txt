@@ -1,0 +1,8 @@
+C:\Users\GreenZone\Desktop\AlgoPortal\Data\bin\Debug\netcoreapp3.1\Data.deps.json
+C:\Users\GreenZone\Desktop\AlgoPortal\Data\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\GreenZone\Desktop\AlgoPortal\Data\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\GreenZone\Desktop\AlgoPortal\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
+C:\Users\GreenZone\Desktop\AlgoPortal\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
+C:\Users\GreenZone\Desktop\AlgoPortal\Data\obj\Debug\netcoreapp3.1\Data.dll
+C:\Users\GreenZone\Desktop\AlgoPortal\Data\obj\Debug\netcoreapp3.1\Data.pdb
+C:\Users\GreenZone\Desktop\AlgoPortal\Data\obj\Debug\netcoreapp3.1\Data.csproj.CoreCompileInputs.cache

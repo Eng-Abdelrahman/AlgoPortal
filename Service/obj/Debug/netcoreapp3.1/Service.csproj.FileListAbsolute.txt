@@ -1,0 +1,14 @@
+C:\Users\GreenZone\Desktop\AlgoPortal\Service\bin\Debug\netcoreapp3.1\Service.deps.json
+C:\Users\GreenZone\Desktop\AlgoPortal\Service\bin\Debug\netcoreapp3.1\Service.dll
+C:\Users\GreenZone\Desktop\AlgoPortal\Service\bin\Debug\netcoreapp3.1\Service.pdb
+C:\Users\GreenZone\Desktop\AlgoPortal\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfoInputs.cache
+C:\Users\GreenZone\Desktop\AlgoPortal\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfo.cs
+C:\Users\GreenZone\Desktop\AlgoPortal\Service\obj\Debug\netcoreapp3.1\Service.dll
+C:\Users\GreenZone\Desktop\AlgoPortal\Service\obj\Debug\netcoreapp3.1\Service.pdb
+C:\Users\GreenZone\Desktop\AlgoPortal\Service\obj\Debug\netcoreapp3.1\Service.csprojAssemblyReference.cache
+C:\Users\GreenZone\Desktop\AlgoPortal\Service\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\GreenZone\Desktop\AlgoPortal\Service\bin\Debug\netcoreapp3.1\Repo.dll
+C:\Users\GreenZone\Desktop\AlgoPortal\Service\bin\Debug\netcoreapp3.1\Repo.pdb
+C:\Users\GreenZone\Desktop\AlgoPortal\Service\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\GreenZone\Desktop\AlgoPortal\Service\obj\Debug\netcoreapp3.1\Service.csproj.CoreCompileInputs.cache
+C:\Users\GreenZone\Desktop\AlgoPortal\Service\obj\Debug\netcoreapp3.1\Service.csproj.CopyComplete
